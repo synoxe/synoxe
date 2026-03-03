@@ -1,19 +1,53 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate ML Developer from Turkey</h3>
+<h3 align="center">Backend Developer in Progress | Go Enthusiast | Future Full-Stack Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synoxe&label=Profile%20views&color=0e75b6&style=flat" alt="synoxe" /> </p>
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+## 🚀 About Me
 
-- 📫 How to reach me **b8287030@gmail.com**
+- 🔭 Currently learning **Go (Golang) Backend Development**
+- 🌱 Exploring **HTTP, REST APIs, Authentication, Database Systems**
+- 💡 Interested in building scalable backend systems
+- 🧠 Constantly improving step by step
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arif-kaya-68a87b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arif-kaya-68a87b277/" height="30" width="40" /></a>
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Go (learning deeply)
+- JavaScript
+- HTML / CSS
+
+### 🗄 Backend & Database
+- REST API
+- JWT Authentication
+- PostgreSQL / MySQL
+- MongoDB
+
+### 🔧 Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📌 Current Focus
+
+- Writing clean backend architecture
+- Understanding how real production systems work
+- Building small but solid backend projects
+- System design fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=synoxe&show_icons=true&locale=en&layout=compact" alt="synoxe" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight" />
+</p>
 
